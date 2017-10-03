@@ -1,3 +1,4 @@
+#Set 1.2, fixed XOR
 import binascii
 import base64
 

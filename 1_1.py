@@ -1,3 +1,4 @@
+#Set 1.1
 #hex -> binary, binary -> base64
 
 import binascii
