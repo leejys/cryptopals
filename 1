@@ -1,9 +1,0 @@
-import binascii
-import base64
-
-original = '1c0111001f010100061a024b53535009181c'
-
-binary = binascii.unhexlify(original)
-b64 = base64.b64encode(binary)
-
-print(b64.decode('utf-8', binary))
